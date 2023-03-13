@@ -1,23 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T22:51:07.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jc8ldvuyLYIrgpb31Vdv" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T23:35:48.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iPwv0loKJ_Xh0WOwrj4z" version="20.8.20" type="github">
   <diagram name="Page-1" id="s69DwZbRv_0iMl6Fdg_1">
     <mxGraphModel dx="807" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-4" value="Profile&amp;nbsp; Table&lt;br&gt;" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="485" y="270" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="LxmXxYNL-BxHpGxe1tcV-6" value="User" style="html=1;dashed=0;whitespace=wrap;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="90" y="435" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-7" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;creates profile&lt;br&gt;(device)&lt;/font&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="LxmXxYNL-BxHpGxe1tcV-11" value="Review Table" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="650" y="650" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-13" value="Profile&lt;br&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="500" y="360" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LxmXxYNL-BxHpGxe1tcV-16" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;creates review&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="635" width="60" height="60" as="geometry" />
@@ -76,42 +67,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="604.6" as="sourcePoint" />
             <mxPoint x="240" y="604.6" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-43" value="Login / Sign up" style="endArrow=classic;html=1;fontSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxmXxYNL-BxHpGxe1tcV-6" target="LxmXxYNL-BxHpGxe1tcV-7">
-          <mxGeometry x="-0.002" relative="1" as="geometry">
-            <mxPoint x="170" y="465" as="sourcePoint" />
-            <mxPoint x="330" y="455" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-44" value="" style="endArrow=classic;html=1;fontSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxmXxYNL-BxHpGxe1tcV-7" target="LxmXxYNL-BxHpGxe1tcV-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="240" as="sourcePoint" />
-            <mxPoint x="490" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-45" value="Stores data" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=8;fillColor=#FFFFFF;" connectable="0" vertex="1" parent="LxmXxYNL-BxHpGxe1tcV-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-46" value="" style="endArrow=classic;html=1;fontSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxmXxYNL-BxHpGxe1tcV-4" target="LxmXxYNL-BxHpGxe1tcV-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="585" y="320" as="sourcePoint" />
-            <mxPoint x="685" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-47" value="Profile details" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=8;fillColor=#FFFFFF;" connectable="0" vertex="1" parent="LxmXxYNL-BxHpGxe1tcV-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-48" value="" style="endArrow=classic;html=1;fontSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxmXxYNL-BxHpGxe1tcV-13" target="LxmXxYNL-BxHpGxe1tcV-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="534.6" y="375" as="sourcePoint" />
-            <mxPoint x="534.6" y="435" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LxmXxYNL-BxHpGxe1tcV-49" value="contains&amp;nbsp;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=8;fillColor=#FFFFFF;" connectable="0" vertex="1" parent="LxmXxYNL-BxHpGxe1tcV-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LxmXxYNL-BxHpGxe1tcV-50" value="" style="endArrow=classic;html=1;fontSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxmXxYNL-BxHpGxe1tcV-21" target="LxmXxYNL-BxHpGxe1tcV-22">
